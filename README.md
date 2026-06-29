@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62" alt="Header" />
+</div>
 
-<!--
-**farelzy/farelzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2> Hi there, I'm Farelzy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+  <p><em>A passionate developer eager to build cool things.</em></p>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/farelzy">
+    <img src="https://komarev.com/ghpvc/?username=farelzy&label=Profile%20views&color=0e75b6&style=flat" alt="farelzy profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on building awesome web applications
+- 🌱 I’m currently learning and improving my skills in modern web development
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about **Go, Vue.js, and Web Development**
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I love coding and finding creative solutions to problems!**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,vue,js,ts,html,css,nodejs,react,tailwind,docker,postgres,git,linux&perline=7" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farelzy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Farelzy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farelzy&theme=radical&hide_border=true&background=0D1117" alt="Farelzy's Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farelzy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Farelzy's Top Languages" />
+</p>
+
+---
+
+<div align="center">
+  <i><q>Code is like humor. When you have to explain it, it’s bad.</q></i> - Cory House
+</div>
