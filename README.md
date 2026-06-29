@@ -7,11 +7,7 @@
   <p><em>A passionate developer eager to build cool things.</em></p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/farelzy">
-    <img src="https://komarev.com/ghpvc/?username=farelzy&label=Profile%20views&color=0e75b6&style=flat" alt="farelzy profile views" />
-  </a>
-</p>
+
 
 ---
 
