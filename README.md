@@ -27,11 +27,11 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Pernah belajar
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,vue,react,nextjs,nodejs,tailwind,bootstrap,flutter,docker,git,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,vue,nextjs,tailwind,bootstrap,flutter,docker,git,linux&perline=8" />
   </a>
 </p>
 
