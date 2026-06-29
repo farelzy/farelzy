@@ -17,12 +17,18 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on building awesome web applications
+- 🔭 I’m currently working on **[BagiBayar](https://bagibayar.com)**, an awesome web application I built!
 - 🌱 I’m currently learning and improving my skills in modern web development
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about **Go, Vue.js, and Web Development**
 - 📫 How to reach me: ...
 - ⚡ Fun fact: **I love coding and finding creative solutions to problems!**
+
+---
+
+### 🚀 Featured Project
+
+- 🌐 **[BagiBayar](https://bagibayar.com)** - Check out my latest web application!
 
 ---
 
@@ -50,5 +56,5 @@
 ---
 
 <div align="center">
-  <i><q>Code is like humor. When you have to explain it, it’s bad.</q></i> - Cory House
+  <i><q>Code is like humor. When you have to explain it, it’s bad.</q></i> - relzy
 </div>
