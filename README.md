@@ -17,10 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[BagiBayar](https://bagibayar.com)**, an awesome web application I built!
 - 🌱 I’m currently learning and improving my skills in modern web development
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about **Go, Vue.js, and Web Development**
 - 📫 How to reach me: ...
 - ⚡ Fun fact: **I love coding and finding creative solutions to problems!**
 
