@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,vue,react,nextjs,nodejs,tailwind,bootstrap,flutter,go,docker,postgres,git,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,vue,react,nextjs,nodejs,tailwind,bootstrap,flutter,docker,git,linux&perline=8" />
   </a>
 </p>
 
