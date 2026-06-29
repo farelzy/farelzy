@@ -20,9 +20,10 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 - 🌐 **[BagiBayar](https://bagibayar.com)** - Check out my latest web application!
+- 🌐 **[SixSeventh](https://sixseventh.my.id)** - Another cool project I built!
 
 ---
 
